@@ -33,3 +33,6 @@
 <!-- <a href="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
  <img align="right" width="255px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </a> -->
+
+## Snake Eat My Contribution
+![snake gif](https://github.com/Simonduya/Simonduya/blob/output/github-contribution-grid-snake-dark.svg)
