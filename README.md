@@ -35,4 +35,4 @@
 </a> -->
 
 ## Snake Eat My Contribution
-![](https://raw.githubusercontent.com/Simonduya/Simonduya/main/assets/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Simonduya/Simonduya/main/assets/github-contribution-grid-snake.svg)
