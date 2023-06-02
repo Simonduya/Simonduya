@@ -1,4 +1,5 @@
 # <p align="center">道阻且长 行则将至</p> 
+少年时驰骋的风，比黄金都珍贵。
 
 ## Languages and Tools:
 <code><img height=30 src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" /></code>
