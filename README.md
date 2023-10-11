@@ -1,4 +1,4 @@
-# <p align="center">道阻且长 行则将至</p> 
+# <p align="center">Never Stop Learning</p> 
 少年时驰骋的风，比黄金都珍贵。
 
 ## Languages and Tools:
